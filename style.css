@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    height: 500px;
+    padding: 0%;
+}
+header{
+color: rgb(0, 0, 0);
+text-align: center;
+background-color: rgba(255, 255, 255, 0.808);
+padding-top: 30px;
+margin: 0%;
+height: 350px;
+background-image: url("https://b1.filmpro.ru/c/829913.700xp.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position-y: 50%;
+
+
+}
+h1{
+padding-right: 1700px;
+color: rgb(0, 0, 0);
+font-size: 10;
+
+
+}
+.text {
+text-align: center;
+width: 50%;
+
+
+
+
+}
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+h5{
+padding-right: 205px;
+
+
+
+}
+
+.for {
+text-align: center;
+
+
+
+}
+
+h3{
+    padding-right: 1700px;
+    margin: 0%;
+    padding-top: 15px;
+}    
+main{
+    margin: 0;
+    height: 1600px;
+    padding: 20px;
+
+
+}
+p{
+font-size: large;
+font: 100;
+font-weight: 100;
+}
+.container{
+    display: flex;
+}
+.right{
+    width: 50%;
+}
+
+footer {
+padding-top: 30px;
+color: white;
+background-color: black;
+height: 300px;
+
+
+}
+.x3 {
+text-align: center;
+
+
+
+
+
+
+
+
+
+
+}
+
+
+.KapTuHKu img {
+width: 100px;
+padding-left: 10px;
+
+
+
+
+}
+.KapTuHKu {
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+
